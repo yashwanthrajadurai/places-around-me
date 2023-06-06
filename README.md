@@ -40,7 +40,7 @@ INDEX.HTML
         </h1>
          <h3 align="center">
         <font color="blue" face ="cursive">
-            MOHAMED ROSHAN S (212222040101)
+            YASHWANTH RAJA DURAI (212222040184)
         </font>
         </h3>
         <center>
@@ -76,7 +76,7 @@ SCHOOL.HTML
 <body >
 <h1 align="center">
     <font color="blue" face="cursive">
-        KENDHRA VIDHYALAYA
+        MCTM
     </font>
 </h1>
 <p align="center">
